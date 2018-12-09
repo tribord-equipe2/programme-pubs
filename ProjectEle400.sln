@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEle400", "ProjectEle400\ProjectEle400.csproj", "{FAB20E11-1CF6-4EE5-837F-3C9B13306FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB20E11-1CF6-4EE5-837F-3C9B13306FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB20E11-1CF6-4EE5-837F-3C9B13306FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB20E11-1CF6-4EE5-837F-3C9B13306FEF}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{FAB20E11-1CF6-4EE5-837F-3C9B13306FEF}.Debug|Default.Build.0 = Debug|Any CPU
+		{FAB20E11-1CF6-4EE5-837F-3C9B13306FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB20E11-1CF6-4EE5-837F-3C9B13306FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB20E11-1CF6-4EE5-837F-3C9B13306FEF}.Release|Default.ActiveCfg = Release|Any CPU
+		{FAB20E11-1CF6-4EE5-837F-3C9B13306FEF}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7038C530-AB78-48D9-9B80-F6E18526BF5C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
